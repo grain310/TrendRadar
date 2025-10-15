@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T21:48:31.489858+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2025-10-15T22:51:37.874973+08:00",
+  "total_titles_processed": 1942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -58,8 +58,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 22时51分]"
+        },
+        {
+          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
+          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 22时51分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -76,15 +87,15 @@
           "time_info": "[16时53分 ~ 21时48分]"
         },
         {
-          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
-          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时40分 ~ 21时48分]"
+          "time_info": "[18时44分 ~ 22时51分]"
         },
         {
           "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
@@ -138,15 +149,16 @@
           "time_info": "[15时35分 ~ 17时40分]"
         },
         {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时44分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 22时51分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -191,18 +203,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 21时48分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -812,7 +812,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -867,7 +867,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -960,6 +960,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26cate%3D5001%26band_rank%3D29%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D29%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26realpos%3D29%26c_type%3D31%26display_time%3D1760539772%26pre_seqid%3D17605397723350066886",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美国总统特朗普：我们希望看到阿根廷取得成功。",
           "url": "https://flash.jin10.com/detail/20251015021749199800",
           "source": "金十数据",
@@ -974,7 +985,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -1032,18 +1043,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2988279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1084,6 +1084,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 17时40分]"
+        },
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时51分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -1168,6 +1180,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20251015040050861800",
           "source": "金十数据",
@@ -1185,7 +1208,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -1207,9 +1230,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美国银行第三季交易收入（不含DVA）为53.5亿美元，预估为50.1亿美元。 第三季每股收益1.06美元。 第三季净利息收入152.3亿美元，预估150.3亿美元。 美国银行美股盘前涨逾2%。",
@@ -1254,6 +1288,162 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时51分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D21%26pos%3D22%26lcate%3D5001%26cate%3D5001%26display_time%3D1760460570%26pre_seqid%3D17604605708840169537158",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 07时31分]"
+        },
+        {
+          "title": "英国央行行长：全球不确定性与央行购金推高金价",
+          "url": "https://flash.jin10.com/detail/20251015051028696800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时37分]"
+        },
+        {
+          "title": "金价飙升带火洗沙盘",
+          "url": "https://www.toutiao.com/trending/7561063810480475711/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 06时37分]"
+        },
+        {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "金价新高！多家银行提示风险",
+          "url": "https://wallstreetcn.com/livenews/2988269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "金价又创新高 何时会下跌",
+          "url": "https://www.toutiao.com/trending/7561245865755561535/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）上海金早盘价为953.95元/克，较国际金价(958.5元/克)，低4.55元/克",
+          "url": "https://flash.jin10.com/detail/20251015101749363800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D23%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26flag%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D23%26pos%3D24%26lcate%3D5001%26cate%3D5001%26display_time%3D1760460570%26pre_seqid%3D17604605708840169537158",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "金十图示：2025年10月15日（周三）上海金午盘价为0元/克，较国际金价(961.73元/克)，低961.73元/克",
+          "url": "https://flash.jin10.com/detail/20251015150219451800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -1396,139 +1586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时31分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D21%26pos%3D22%26lcate%3D5001%26cate%3D5001%26display_time%3D1760460570%26pre_seqid%3D17604605708840169537158",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 07时31分]"
-        },
-        {
-          "title": "英国央行行长：全球不确定性与央行购金推高金价",
-          "url": "https://flash.jin10.com/detail/20251015051028696800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时37分]"
-        },
-        {
-          "title": "金价飙升带火洗沙盘",
-          "url": "https://www.toutiao.com/trending/7561063810480475711/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 06时37分]"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时48分]"
-        },
-        {
-          "title": "金价新高！多家银行提示风险",
-          "url": "https://wallstreetcn.com/livenews/2988269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "金价又创新高 何时会下跌",
-          "url": "https://www.toutiao.com/trending/7561245865755561535/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "金十图示：2025年10月15日（周三）上海金早盘价为953.95元/克，较国际金价(958.5元/克)，低4.55元/克",
-          "url": "https://flash.jin10.com/detail/20251015101749363800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D23%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26flag%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D23%26pos%3D24%26lcate%3D5001%26cate%3D5001%26display_time%3D1760460570%26pre_seqid%3D17604605708840169537158",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "金十图示：2025年10月15日（周三）上海金午盘价为0元/克，较国际金价(961.73元/克)，低961.73元/克",
-          "url": "https://flash.jin10.com/detail/20251015150219451800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         }
       ]
     },

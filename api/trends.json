@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T05:31:04.848983+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-10-16T06:33:40.249380+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 06时33分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -56,8 +56,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -66,11 +66,12 @@
           "ranks": [
             24,
             16,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 06时33分]"
         },
         {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
@@ -80,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 06时33分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -117,28 +118,6 @@
           "time_info": "02时59分"
         },
         {
-          "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
-          "url": "https://flash.jin10.com/detail/20251016050809195800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
-          "url": "https://wallstreetcn.com/livenews/2988432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
           "url": "https://flash.jin10.com/detail/20251016025935957800",
           "source": "金十数据",
@@ -148,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "阿根廷总统米莱：在美国白宫与特朗普的磋商侧重于贸易问题。 总统特朗普关于在阿根廷中期选举中有条件地支持我的说法并不正确。",
+          "url": "https://wallstreetcn.com/livenews/2988448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -207,6 +197,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
+          "url": "https://flash.jin10.com/detail/20251016050809195800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时33分]"
+        },
+        {
+          "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
+          "url": "https://wallstreetcn.com/livenews/2988432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时33分]"
         },
         {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
@@ -343,6 +357,30 @@
           "time_info": "[03时32分 ~ 04时41分]"
         },
         {
+          "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
+          "url": "https://wallstreetcn.com/livenews/2988423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时33分]"
+        },
+        {
+          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时33分]"
+        },
+        {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
           "url": "https://wallstreetcn.com/livenews/2988335",
           "source": "华尔街见闻-快讯",
@@ -353,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时41分]"
+        },
+        {
+          "title": "特朗普称其可能出席最高法院关税案辩论",
+          "url": "https://flash.jin10.com/detail/20251016055644949800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
@@ -388,17 +437,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
-          "url": "https://wallstreetcn.com/livenews/2988423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
           "title": "市场消息：一名法官延长了暂时阻止特朗普政府在俄勒冈州波特兰市部署国民警卫队的命令。",
           "url": "https://flash.jin10.com/detail/20251016024147449800",
           "source": "金十数据",
@@ -421,15 +459,15 @@
           "time_info": "04时41分"
         },
         {
-          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
-          "url": "https://wallstreetcn.com/livenews/2988422",
+          "title": "WTI原油期货在亚太盘初涨0.83%，暂报58.32美元，此前一度拉升至58.75美元。 隔夜，美国总统特朗普宣称，印度将停止购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2988441",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时33分"
         },
         {
           "title": "据CNN：美国总统特朗普表示，如果哈马斯不遵守停火协议，以色列军队将“随时听候我的命令”在加沙地带恢复战斗。",
@@ -520,13 +558,24 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
+          "url": "https://flash.jin10.com/detail/20251016052515297800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://wallstreetcn.com/livenews/2988414",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -542,13 +591,24 @@
           "time_info": "04时41分"
         },
         {
+          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
+          "url": "https://flash.jin10.com/detail/20251016052451289800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "美国总统特朗普谈及股市上涨。",
           "url": "https://wallstreetcn.com/livenews/2988413",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -581,7 +641,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -600,7 +660,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -612,8 +672,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
@@ -662,6 +722,28 @@
           "time_info": "00时50分"
         },
         {
+          "title": "黄金ETF收涨超1.7%，和新兴市场ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2988440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2988438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251016040819160800",
           "source": "金十数据",
@@ -698,7 +780,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -709,8 +791,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -720,8 +802,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 05时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 06时33分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -732,8 +814,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 05时31分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 06时33分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -749,13 +831,24 @@
           "time_info": "[00时50分 ~ 04时41分]"
         },
         {
+          "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
+          "url": "https://wallstreetcn.com/livenews/2988450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
           "url": "https://wallstreetcn.com/livenews/2988417",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         }
@@ -765,17 +858,6 @@
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
-        {
-          "title": "阿根廷MERVAL指数收涨1.56%，逼近192万点。 特朗普政府短短一周之内两次干预阿根廷外汇市场，美国财长贝森特称合计出资400亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2988428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
         {
           "title": "周三（10月15日）纽约尾盘，ICE美元指数跌0.29%，报98.762点，日内交投区间为99.078-98.655点，全天持续走低，北京时间23:00过后出现一波加速下挫的行情。 彭博美元指数跌0.28%，报1211.05点，日内交投区间为1214.69-1210.10点。",
           "url": "https://wallstreetcn.com/livenews/2988387",
@@ -787,6 +869,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时41分]"
+        },
+        {
+          "title": "阿根廷MERVAL指数收涨1.56%，逼近192万点。 特朗普政府短短一周之内两次干预阿根廷外汇市场，美国财长贝森特称合计出资400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2988428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时33分]"
         },
         {
           "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",

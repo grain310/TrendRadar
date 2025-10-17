@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T16:50:55.557509+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-10-17T17:35:33.189527+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 108,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -61,11 +61,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -92,20 +93,6 @@
           "time_info": "[05时27分 ~ 07时27分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            2,
-            5,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 16时50分]"
-        },
-        {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
           "url": "https://wallstreetcn.com/articles/3757333",
           "source": "华尔街见闻",
@@ -114,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -128,8 +115,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            1,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 17时35分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -181,6 +183,17 @@
           "time_info": "[00时53分 ~ 04时39分]"
         },
         {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "据国际文传电讯社：俄罗斯总统普京在与美国总统特朗普通话后召开了安全会议。",
           "url": "https://flash.jin10.com/detail/20251017151720760800",
           "source": "金十数据",
@@ -190,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "据AXIOS网站：一项研究指出，特朗普的移民政策计划可能到2035年导致多达1500万个岗位消失。",
+          "url": "https://flash.jin10.com/detail/20251017172015809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯继续在加沙杀害民众——这本不是一笔交易——我们将别无选择，只能进入并消灭他们。",
@@ -212,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时35分]"
         },
         {
           "title": "印度回应特朗普称该国承诺停购俄油",
@@ -264,15 +299,15 @@
           "time_info": "[02时57分 ~ 03时28分]"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时50分]"
+          "time_info": "[15时36分 ~ 17时35分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -337,17 +372,6 @@
           "time_info": "[01时41分 ~ 03时28分]"
         },
         {
-          "title": "你如何看待特朗普建凯旋门",
-          "url": "https://www.toutiao.com/trending/7561714764305907758/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 16时50分]"
-        },
-        {
           "title": "据华尔街日报：美国商会起诉特朗普政府，指控其新出台的H-1B签证收费政策。",
           "url": "https://flash.jin10.com/detail/20251017022845082800",
           "source": "金十数据",
@@ -394,6 +418,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时35分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
@@ -612,6 +648,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "匈牙利外长西雅尔多：匈牙利总理欧尔班与美国总统特朗普的双边会晤将是一次单独的会晤。",
+          "url": "https://flash.jin10.com/detail/20251017170424754800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
           "url": "https://flash.jin10.com/detail/20251017024401742800",
           "source": "金十数据",
@@ -645,15 +692,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
-          "url": "https://www.cls.cn/detail/2172177",
-          "source": "财联社热门",
+          "title": "匈牙利外长西雅尔多：如果美俄外长下周举行预备会晤，那么我们就可以讨论特朗普与普京会晤的日期。",
+          "url": "https://flash.jin10.com/detail/20251017170107381800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
@@ -775,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国总统特朗普：我们将大幅削减试管婴儿的成本。",
@@ -1168,7 +1226,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1391,7 +1449,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1402,7 +1460,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -1601,7 +1659,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1611,8 +1669,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1634,11 +1692,12 @@
             7,
             6,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -1662,6 +1721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时37分]"
+        },
+        {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
@@ -1699,8 +1769,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 17时35分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:58:38.769540+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-10-20T17:41:07.210643+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 16时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 17时41分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -97,8 +97,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 16时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 17时41分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -121,6 +121,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 14时56分]"
+        },
+        {
+          "title": "特朗普：不想伤害中国，愿意降低关税水平",
+          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时41分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时41分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -185,17 +210,6 @@
           "time_info": "[00时47分 ~ 06时36分]"
         },
         {
-          "title": "特朗普：不想伤害中国，愿意降低关税水平",
-          "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时58分]"
-        },
-        {
           "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
           "url": "https://flash.jin10.com/detail/20251019224545078800",
           "source": "金十数据",
@@ -236,6 +250,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 05时30分]"
+        },
+        {
+          "title": "据韩国《每日经济新闻》：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251020171504774800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
@@ -292,19 +317,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 05时30分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时58分]"
         },
         {
           "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
@@ -471,6 +483,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
+          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时41分]"
+        },
+        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://news.ifeng.com/c/8naqHMsvJOK",
           "source": "凤凰网",
@@ -480,6 +503,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "韩国和美国同意在特朗普访问期间签署贸易方面的谅解备忘录。（韩国每日经济新闻）",
+          "url": "https://wallstreetcn.com/livenews/2990578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时41分]"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -520,6 +566,19 @@
           "time_info": "[11时41分 ~ 12时44分]"
         },
         {
+          "title": "特朗普政府为何悄悄放松关税政策",
+          "url": "https://www.toutiao.com/trending/7563192486479269386/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普被曝与泽连斯基再度激烈争吵",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
           "source": "百度热搜",
@@ -546,29 +605,6 @@
           "time_info": "[11时41分 ~ 14时56分]"
         },
         {
-          "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
-          "url": "https://news.ifeng.com/c/8naqHMsvJPv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时58分]"
-        },
-        {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时58分]"
-        },
-        {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -580,6 +616,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时30分 ~ 12时44分]"
+        },
+        {
+          "title": "曝特朗普与泽连斯基再度激烈争吵",
+          "url": "https://www.douyin.com/hot/2276127",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 17时41分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -615,18 +663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普政府为何悄悄放松关税政策",
-          "url": "https://www.toutiao.com/trending/7563192486479269386/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 16时58分]"
         },
         {
           "title": "特朗普被曝疑似险遭暗杀",
@@ -688,6 +724,17 @@
           "time_info": "[13时39分 ~ 14时56分]"
         },
         {
+          "title": "特朗普与泽连斯基再度激烈争吵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E5%2586%258D%25E5%25BA%25A6%25E6%25BF%2580%25E7%2583%2588%25E4%25BA%2589%25E5%2590%25B5%2523%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D26%26cate%3D5001%26band_rank%3D25%26realpos%3D25%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26dgr%3D0%26display_time%3D1760953205%26pre_seqid%3D17609532052760358643963",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普称希望与哈马斯保持和平状态",
           "url": "https://flash.jin10.com/detail/20251020143029307800",
           "source": "金十数据",
@@ -727,9 +774,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "据日本时事通讯社：日本和美国政府计划在特朗普访问日本时安排关税协议的签字仪式。",
+          "url": "https://flash.jin10.com/detail/20251020164943352800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "特朗普称俄乌应按当前战线“割裂”顿巴斯地区",
@@ -765,17 +823,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "曝特朗普与泽连斯基再度激烈争吵",
-          "url": "https://www.douyin.com/hot/2276127",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
           "title": "美17州检察长起诉特朗普政府说明啥",
           "url": "https://www.toutiao.com/trending/7563083390186950170/",
           "source": "今日头条",
@@ -790,8 +837,25 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 17时41分]"
+        },
         {
           "title": "当地时间10月19日18时45分，伊朗东南部克尔曼省安巴拉巴德县发生里氏4.3级地震，震源深度10公里。",
           "url": "https://flash.jin10.com/detail/20251020030742560800",
@@ -820,22 +884,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时25分 ~ 07时30分]"
-        },
-        {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时58分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -887,6 +935,18 @@
           "time_info": "[00时47分 ~ 02时51分]"
         },
         {
+          "title": "伊朗革命卫队称将深化与胡塞武装合作",
+          "url": "https://wallstreetcn.com/livenews/2990546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时41分]"
+        },
+        {
           "title": "伊朗逊尼派部族领袖遇害，革命卫队：以色列指使的",
           "url": "https://news.ifeng.com/c/8naUXXhxDm5",
           "source": "凤凰网",
@@ -898,15 +958,15 @@
           "time_info": "11时41分"
         },
         {
-          "title": "伊朗革命卫队称将深化与胡塞武装合作",
-          "url": "https://wallstreetcn.com/livenews/2990546",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗塔斯尼姆通讯社：俄罗斯总统普京的特使今天下午将会见伊朗最高安全官员拉里贾尼。",
+          "url": "https://flash.jin10.com/detail/20251020170321896800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "17时41分"
         },
         {
           "title": "伊朗革命卫队称将深化与胡塞武装合作",
@@ -915,7 +975,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -923,7 +983,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -942,11 +1002,12 @@
           "url": "https://wallstreetcn.com/livenews/2990560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时41分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -967,7 +1028,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -978,9 +1039,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
+          "url": "https://flash.jin10.com/detail/20251020165037004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
@@ -989,9 +1061,49 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时41分]"
+        },
+        {
+          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
+          "url": "https://flash.jin10.com/detail/20251020164600924800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://flash.jin10.com/detail/20251020164457909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
@@ -1033,11 +1145,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 17时41分]"
         },
         {
           "title": "美股美债与美元指数的“共振模式”",
@@ -1049,23 +1162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
         }
       ]
     },

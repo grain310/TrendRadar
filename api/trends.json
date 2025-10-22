@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T14:56:35.343376+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-10-22T15:34:59.806627+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 14时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 15时34分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -127,8 +127,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
+          "url": "https://news.ifeng.com/c/8neiMKW5b9G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "time_info": "[12时45分 ~ 15时34分]"
         },
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -142,17 +153,6 @@
           "time_info": "[11时36分 ~ 13时41分]"
         },
         {
-          "title": "特朗普称大陆不想对台湾发动进攻，国台办回应",
-          "url": "https://news.ifeng.com/c/8neiMKW5b9G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时56分]"
-        },
-        {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
           "url": "https://www.toutiao.com/trending/7563604843634544147/",
           "source": "今日头条",
@@ -161,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 15时34分]"
         },
         {
           "title": "特朗普：特普会待定，不想白费功夫",
@@ -175,8 +175,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "美媒：乌欧拟推12点和平方案，特朗普任和平委员会主席",
@@ -189,8 +189,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -201,8 +201,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
+        },
+        {
+          "title": "特朗普称中美会在APEC峰会上达成贸易协议，但中美元首未必见面，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2991764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国参议院民主党领导人Schumer：10月21日与总统特朗普取得联系。",
@@ -214,6 +225,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
@@ -291,6 +315,19 @@
           "time_info": "[05时31分 ~ 06时34分]"
         },
         {
+          "title": "特朗普吹嘘从各国拿到巨额关税资金",
+          "url": "https://www.toutiao.com/trending/7563600041760555071/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 15时34分]"
+        },
+        {
           "title": "美国总统特朗普：不想与俄罗斯进行一场无意义的会晤。",
           "url": "https://flash.jin10.com/detail/20251022045908339800",
           "source": "金十数据",
@@ -301,30 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时34分]"
-        },
-        {
-          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
-        },
-        {
-          "title": "特朗普吹嘘从各国拿到巨额关税资金",
-          "url": "https://www.toutiao.com/trending/7563600041760555071/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时56分]"
         },
         {
           "title": "美国总统特朗普：我希望（只有）一家公司竞标联邦航空管理局（FAA）的现代化。 （目前）有三家公司竞标空中交通管控系统。",
@@ -651,7 +664,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -684,7 +697,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -742,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "大V：特朗普放大招收买美军或遭反噬",
+          "url": "https://www.toutiao.com/trending/7563913682791435814/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
@@ -878,8 +902,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 15时34分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -1034,7 +1058,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国际金价突然大跌",
@@ -1045,8 +1069,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 14时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 15时34分]"
         },
         {
           "title": "黄金价格坐过山车 后续怎么走",
@@ -1069,8 +1093,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "金价",
@@ -1095,8 +1119,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "金价再次跌破 4200 美元，银行提示贵金属风险，交易所上调保证金，如何看待近期调整？普通投资者如何应对？",
@@ -1107,8 +1131,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -1124,6 +1148,19 @@
           "time_info": "[04时41分 ~ 07时34分]"
         },
         {
+          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
+          "url": "https://www.cls.cn/detail/2176533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 15时34分]"
+        },
+        {
           "title": "金价银价急跌",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26realpos%3D24%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E6%2580%25A5%25E8%25B7%258C%2523%26pos%3D24%26dgr%3D0%26c_type%3D31%26display_time%3D1761088209%26pre_seqid%3D176108820904703133243135",
           "source": "微博",
@@ -1134,18 +1171,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时33分 ~ 11时36分]"
-        },
-        {
-          "title": "金价创12年最大单日跌幅 华尔街热议：中途休整还是牛市终结？",
-          "url": "https://www.cls.cn/detail/2176533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时56分]"
         },
         {
           "title": "金价银价为什么同时下跌",
@@ -1181,13 +1206,24 @@
           "time_info": "11时36分"
         },
         {
+          "title": "金十图示：2025年10月22日（周三）上海金午盘价为951.41元/克，较国际金价(951.84元/克)，低0.43元/克",
+          "url": "https://flash.jin10.com/detail/20251022150250450800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "金价暴跌有金店连夜降价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E9%87%91%E5%BA%97%E8%BF%9E%E5%A4%9C%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D29%26dgr%3D0%26realpos%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D30%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E9%2587%2591%25E5%25BA%2597%25E8%25BF%259E%25E5%25A4%259C%25E9%2599%258D%25E4%25BB%25B7%2523%26cate%3D5001%26lcate%3D5001%26display_time%3D1761116109%26pre_seqid%3D17611161093980118306377",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
@@ -1207,6 +1243,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时34分]"
         },
         {
           "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
@@ -1233,18 +1281,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时34分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时56分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -1352,8 +1388,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 15时34分]"
         },
         {
           "title": "DeepSeek新模型速览",

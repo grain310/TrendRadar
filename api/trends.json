@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T15:35:27.157204+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-10-23T16:53:27.638197+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -58,6 +58,18 @@
           "time_info": "[00时59分 ~ 11时18分]"
         },
         {
+          "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823823",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时31分 ~ 16时53分]"
+        },
+        {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
           "url": "https://www.cls.cn/detail/2177683",
           "source": "财联社热门",
@@ -80,16 +92,15 @@
           "time_info": "[11时18分 ~ 15时35分]"
         },
         {
-          "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823823",
-          "source": "澎湃新闻",
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
           "ranks": [
-            20,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时31分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时53分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -129,8 +140,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 16时53分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时35分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -222,6 +222,32 @@
           "time_info": "[11时18分 ~ 15时35分]"
         },
         {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时53分]"
+        },
+        {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时53分]"
+        },
+        {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
           "url": "https://www.cls.cn/detail/2177223",
           "source": "财联社热门",
@@ -245,19 +271,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时35分]"
         },
         {
           "title": "特朗普本周开启第二任期首次亚洲行",
@@ -293,18 +306,6 @@
           "time_info": "00时59分"
         },
         {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时35分]"
-        },
-        {
           "title": "美国总统特朗普：在乌克兰和俄罗斯方面进展顺利。",
           "url": "https://wallstreetcn.com/livenews/2992090",
           "source": "华尔街见闻-快讯",
@@ -336,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 16时53分]"
         },
         {
           "title": "特朗普称取消与普京会面",
@@ -412,17 +424,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 15时35分]"
         },
         {
           "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
@@ -697,6 +698,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -706,6 +718,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
+          "url": "https://www.cls.cn/detail/2177790",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "特朗普宣布：取消与普京在布达佩斯的会面",
@@ -772,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "唐驳虎：特朗普第一次对普京动真格",
+          "url": "https://www.toutiao.com/trending/7564280002351468071/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "IONQ、RIGETTI和DWAVE的股价在法兰克福上涨了15%至22%，此前《华尔街日报》报道称，特朗普政府可能入股量子计算公司。",
@@ -920,8 +954,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 16时53分]"
+        },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
@@ -932,18 +978,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 06时31分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时35分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -968,8 +1002,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 16时53分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -992,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 03时24分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)美股盘前涨超1.5%，此前有报道称，蔚来上周交付破万。",
+          "url": "https://flash.jin10.com/detail/20251023164713851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -1088,6 +1133,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2992438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251023040545784800",
           "source": "金十数据",
@@ -1097,6 +1153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
@@ -1163,9 +1230,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 16时53分]"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -1179,18 +1259,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时18分 ~ 14时55分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 15时35分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -1258,7 +1326,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -1285,11 +1353,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时53分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -1302,8 +1371,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时53分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",

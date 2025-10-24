@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T18:44:06.737131+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-10-24T19:30:36.712128+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普：终止与加拿大的所有贸易谈判",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时48分 ~ 18时44分]"
+          "appearance_count": 26,
+          "time_info": "[00时48分 ~ 19时30分]"
         },
         {
           "title": "白宫：特朗普将访问马来西亚、日本、韩国",
@@ -77,11 +77,12 @@
           "ranks": [
             7,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时40分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 19时30分]"
         },
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -91,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 19时30分]"
         },
         {
           "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
@@ -142,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时13分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[11时13分 ~ 19时30分]"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
@@ -168,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 18时44分]"
+          "appearance_count": 15,
+          "time_info": "[11时13分 ~ 19时30分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -200,17 +201,6 @@
           "time_info": "[12时40分 ~ 17时38分]"
         },
         {
-          "title": "特朗普赦免赵长鹏",
-          "url": "https://www.douyin.com/hot/2280802",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时53分 ~ 18时44分]"
-        },
-        {
           "title": "特朗普赦免币安创始人赵长鹏",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
           "source": "澎湃新闻",
@@ -222,8 +212,32 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 19时30分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏",
+          "url": "https://www.douyin.com/hot/2280802",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时53分 ~ 18时44分]"
+        },
+        {
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 19时30分]"
         },
         {
           "title": "特朗普：终止与加拿大的贸易谈判",
@@ -239,6 +253,17 @@
           "time_info": "[14时53分 ~ 17时38分]"
         },
         {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时30分]"
+        },
+        {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
           "url": "https://www.cls.cn/detail/2179005",
           "source": "财联社热门",
@@ -250,18 +275,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时13分 ~ 14时53分]"
-        },
-        {
-          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179429",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 18时44分]"
         },
         {
           "title": "特朗普赦免赵长鹏将带来哪些影响",
@@ -295,17 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
         },
         {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
@@ -547,6 +549,18 @@
           "time_info": "[17时37分 ~ 18时44分]"
         },
         {
+          "title": "特朗普为何终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7564700176221212196/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时30分]"
+        },
+        {
           "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
           "url": "https://wallstreetcn.com/livenews/2992702",
           "source": "华尔街见闻-快讯",
@@ -571,6 +585,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时28分]"
+        },
+        {
+          "title": "泽连斯基为何提交拜登黑料给特朗普",
+          "url": "https://www.toutiao.com/trending/7564698389833584191/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 19时30分]"
         },
         {
           "title": "赵长鹏获特朗普赦免",
@@ -727,28 +753,6 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "泽连斯基为何提交拜登黑料给特朗普",
-          "url": "https://www.toutiao.com/trending/7564698389833584191/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "特朗普为何终止与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7564700176221212196/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
           "title": "特朗普对以色列放出迄今最明确警告",
           "url": "https://www.toutiao.com/trending/7563656423243202603/",
           "source": "今日头条",
@@ -769,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美国总统特朗普称福特汽车(F.N)和通用汽车(GM.N)因对来自其他国家的大型和中型卡车征收关税而收益。",
+          "url": "https://flash.jin10.com/detail/20251024190517536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "据日本共同社：日本首相高市早苗计划于10月25日左右与美国总统特朗普通话。",
@@ -810,7 +825,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -1060,7 +1075,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1084,8 +1099,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时29分 ~ 18时44分]"
+          "appearance_count": 16,
+          "time_info": "[07时29分 ~ 19时30分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -1158,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时28分]"
+        },
+        {
+          "title": "宝洁第一季度内生性收入增长2％，预估增长1.42％。 第一季度销售净额223.9亿美元，同比增长3%，预估221.9亿美元。 第一季度调整后自由现金流49.0亿美元。 仍然预测全年内生性收入0％至增长4％，预估增长2.14％。 仍然预测全年核心每股收益6.83美元至7.09美元，预估6.97美元。 宝洁美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2993376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时30分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨4%。",
@@ -1330,8 +1356,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 18时44分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 19时30分]"
         },
         {
           "title": "金价大跌有人一次买了1斤黄金",

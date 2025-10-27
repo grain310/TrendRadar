@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:31:15.404930+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-10-27T21:46:01.796712+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -40,6 +40,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 07时32分]"
+        },
+        {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时46分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -97,18 +109,6 @@
           "time_info": "[00时47分 ~ 05时31分]"
         },
         {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时31分]"
-        },
-        {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://news.ifeng.com/c/8nn0csPCPJl",
           "source": "凤凰网",
@@ -119,6 +119,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时43分 ~ 16时54分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -145,6 +156,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 06时35分]"
+        },
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -190,7 +212,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -217,6 +239,18 @@
           "time_info": "17时43分"
         },
         {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时46分]"
+        },
+        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
@@ -226,6 +260,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 21时46分]"
         },
         {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
@@ -301,18 +347,6 @@
           "time_info": "[14时57分 ~ 15时35分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时31分]"
-        },
-        {
           "title": "特朗普点燃贸易协议乐观情绪 推动亚洲新兴市场资产攀升",
           "url": "https://flash.jin10.com/detail/20251027122011399800",
           "source": "金十数据",
@@ -349,6 +383,17 @@
           "time_info": "[14时57分 ~ 15时35分]"
         },
         {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
+        },
+        {
           "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
           "url": "https://wallstreetcn.com/livenews/2994045",
           "source": "华尔街见闻-快讯",
@@ -359,6 +404,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时57分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "特朗普：关税生效时我们会通知加拿大。 暂时不会与加拿大总理卡尼会面。 普京应该结束俄乌冲突。 无意损害韩国造船业。 希望企业引进人才到美国。 将确保牧场主不受损失，同时降低物价。 要把牛肉价格降下来。",
@@ -462,17 +540,6 @@
           "time_info": "11时44分"
         },
         {
-          "title": "特朗普访问日本",
-          "url": "https://www.douyin.com/hot/2285103",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -512,7 +579,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -534,7 +601,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -622,7 +689,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -655,7 +722,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -718,7 +785,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -734,13 +801,26 @@
           "time_info": "[11时43分 ~ 16时54分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时46分]"
+        },
+        {
           "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
           "url": "https://flash.jin10.com/detail/20251027190236928800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -769,18 +849,6 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时31分]"
-        },
-        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -798,9 +866,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -817,7 +907,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -875,6 +965,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时57分 ~ 15时35分]"
+        },
+        {
+          "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
+          "url": "https://flash.jin10.com/detail/20251027205309686800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
+          "url": "https://flash.jin10.com/detail/20251027204235077800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
@@ -891,8 +1003,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 21时46分]"
         },
         {
           "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T19:29:08.980354+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-10-31T21:44:23.027606+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 21时44分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -89,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 21时44分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -102,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 21时44分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -162,6 +163,18 @@
           "time_info": "[00时52分 ~ 13时40分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 21时44分]"
+        },
+        {
           "title": "特朗普全面关税被参议院批准终止",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E5%85%B3%E7%A8%8E%E8%A2%AB%E5%8F%82%E8%AE%AE%E9%99%A2%E6%89%B9%E5%87%86%E7%BB%88%E6%AD%A2",
           "source": "bilibili 热搜",
@@ -201,17 +214,6 @@
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时29分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -430,6 +432,19 @@
           "time_info": "14时55分"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时44分]"
+        },
+        {
           "title": "如何看待特朗普对中美会晤的表述",
           "url": "https://www.toutiao.com/trending/7567004351504322067/",
           "source": "今日头条",
@@ -503,18 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时32分]"
-        },
-        {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 18时44分]"
         },
         {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
@@ -771,7 +774,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -782,8 +785,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时31分 ~ 19时29分]"
+          "appearance_count": 17,
+          "time_info": "[07时31分 ~ 21时44分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -834,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
@@ -968,6 +982,50 @@
           "time_info": "[04时48分 ~ 05时32分]"
         },
         {
+          "title": "美股高开 苹果涨2%股价创新高",
+          "url": "https://flash.jin10.com/detail/20251031213040797800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
+          "url": "https://wallstreetcn.com/livenews/2997746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "小马智行美股盘前涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997604",
           "source": "华尔街见闻-快讯",
@@ -1083,8 +1141,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 19时29分]"
+          "appearance_count": 9,
+          "time_info": "[16时48分 ~ 21时44分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1174,11 +1232,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 21时44分]"
         }
       ]
     },
@@ -1229,8 +1288,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时35分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[11时35分 ~ 21时44分]"
         }
       ]
     }

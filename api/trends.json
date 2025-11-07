@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:31:32.018234+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-11-07T21:38:03.489626+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时32分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时32分 ~ 21时38分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -203,6 +203,17 @@
           "time_info": "11时34分"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时38分]"
+        },
+        {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
           "url": "https://flash.jin10.com/detail/20251107023254631800",
           "source": "金十数据",
@@ -262,6 +273,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时55分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 21时38分]"
         },
         {
           "title": "经贸大战背后 特朗普正在包围欧洲吗",
@@ -376,17 +399,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 13时40分]"
-        },
-        {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时31分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
@@ -532,17 +544,6 @@
           "time_info": "[00时56分 ~ 01时40分]"
         },
         {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时31分]"
-        },
-        {
           "title": "特朗普痛骂佩洛西",
           "url": "https://www.douyin.com/hot/2297374",
           "source": "抖音",
@@ -616,7 +617,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1100,8 +1101,21 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时34分 ~ 21时38分]"
+        },
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
           "url": "https://www.cls.cn/detail/2193628",
@@ -1128,18 +1142,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时34分 ~ 17时36分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时34分 ~ 19时31分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1179,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 11时34分]"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -1239,8 +1252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时37分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[07时37分 ~ 21时38分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1325,11 +1338,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时40分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[06时40分 ~ 21时38分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",

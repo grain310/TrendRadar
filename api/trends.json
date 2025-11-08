@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T13:36:02.146625+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-08T14:49:19.060434+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -42,6 +42,17 @@
           "time_info": "[00时45分 ~ 07时30分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时49分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -54,15 +65,17 @@
           "time_info": "[00时45分 ~ 11时14分]"
         },
         {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            20,
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时36分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时49分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -88,29 +101,18 @@
           "time_info": "01时35分"
         },
         {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时36分]"
-        },
-        {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
           "url": "https://flash.jin10.com/detail/20251108105346756800",
           "source": "金十数据",
           "ranks": [
             2,
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 14时49分]"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -169,11 +171,12 @@
           "ranks": [
             9,
             18,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 14时49分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -414,6 +417,28 @@
           "time_info": "07时30分"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
           "url": "https://flash.jin10.com/detail/20251108004617809800",
           "source": "金十数据",
@@ -520,6 +545,19 @@
           "time_info": "[00时45分 ~ 06时38分]"
         },
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 14时49分]"
+        },
+        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -530,20 +568,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 13时36分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 13时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 14时49分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -681,8 +707,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 14时49分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -747,11 +773,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时49分]"
         }
       ]
     },

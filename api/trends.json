@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T02:51:08.234543+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-11T03:27:36.647004+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,51 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
         },
         {
-          "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
-          "url": "https://flash.jin10.com/detail/20251111022542433800",
-          "source": "金十数据",
+          "title": "因剪辑拼接特朗普视频，BBC高管辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
+        },
+        {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普的“贸易战”收到了什么结果",
+          "url": "https://www.toutiao.com/trending/7571084710177148454/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。",
@@ -39,43 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "因剪辑拼接特朗普视频，BBC高管辞职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
-        },
-        {
-          "title": "特朗普的“贸易战”收到了什么结果",
-          "url": "https://www.toutiao.com/trending/7571084710177148454/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -102,6 +94,18 @@
           "time_info": "[00时53分 ~ 01时35分]"
         },
         {
+          "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20251111022542433800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 03时27分]"
+        },
+        {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
           "url": "https://wallstreetcn.com/livenews/3002238",
           "source": "华尔街见闻-快讯",
@@ -112,6 +116,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时35分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
+          "url": "https://flash.jin10.com/detail/20251111020735747800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 03时27分]"
         },
         {
           "title": "美国交通部长达菲：“我同意”特朗普的说法，空中交通管制员必须到岗上班。",
@@ -158,17 +174,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
-          "url": "https://flash.jin10.com/detail/20251111020735747800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
           "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。 认为（众议院会）有足够多的票数来通过临时拨款草案。",
           "url": "https://wallstreetcn.com/livenews/3002222",
           "source": "华尔街见闻-快讯",
@@ -197,6 +202,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
+        },
+        {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251111013140077800",
           "source": "金十数据",
@@ -208,28 +224,18 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
-        },
-        {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
             16,
             18,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -267,8 +273,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时27分]"
+        },
+        {
+          "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
+          "url": "https://flash.jin10.com/detail/20251111020333560800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 03时27分]"
         },
         {
           "title": "美国官员表示，黎巴嫩必须“结束伊朗通过真主党施加的恶意影响”。",
@@ -291,17 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
-          "url": "https://flash.jin10.com/detail/20251111020333560800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时51分"
         }
       ]
     },
@@ -315,11 +322,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 03时27分]"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -327,11 +335,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时27分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
@@ -416,6 +425,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "近30年全球央行黄金持有首次超美债",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T14:57:57.292368+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-11-11T15:34:45.567109+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 15时34分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -218,6 +218,17 @@
           "time_info": "[06时39分 ~ 07时32分]"
         },
         {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 15时34分]"
+        },
+        {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
           "url": "https://wallstreetcn.com/livenews/3002238",
           "source": "华尔街见闻-快讯",
@@ -326,17 +337,6 @@
           "time_info": "[05时32分 ~ 06时40分]"
         },
         {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "美国交通部长达菲：“我同意”特朗普的说法，空中交通管制员必须到岗上班。",
           "url": "https://flash.jin10.com/detail/20251111012146992800",
           "source": "金十数据",
@@ -398,7 +398,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -541,7 +541,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -555,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "特朗普称中国不敢“招惹”美国",
+          "url": "https://www.toutiao.com/trending/7570553627295727662/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：我们将很快开放我们的国家（结束停摆）。",
@@ -609,6 +620,19 @@
           "time_info": "[00时53分 ~ 13时41分]"
         },
         {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时34分]"
+        },
+        {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
@@ -632,20 +656,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时32分 ~ 15时34分]"
         },
         {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时32分 ~ 14时57分]"
+          "time_info": "[11时37分 ~ 15时34分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -668,18 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时57分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -838,7 +851,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -881,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）上海金午盘价为946.77元/克，较国际金价(945.51元/克)，高1.26元/克",
+          "url": "https://flash.jin10.com/detail/20251111151211053800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
@@ -931,7 +955,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗货币改革将启动：删除4个0",
@@ -955,6 +979,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时27分]"
+        },
+        {
+          "title": "伊朗外交部副部长：伊朗希望向前迈进，并改善与邻国的关系。",
+          "url": "https://flash.jin10.com/detail/20251111150729251800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国官员表示，黎巴嫩必须“结束伊朗通过真主党施加的恶意影响”。",
@@ -996,9 +1031,82 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
+          "url": "https://flash.jin10.com/detail/20251111144640620800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
+          "url": "https://wallstreetcn.com/livenews/3002355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时32分]"
+        },
+        {
+          "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
+          "url": "https://flash.jin10.com/detail/20251111004153687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
+          "url": "https://www.cls.cn/detail/2196380",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
+          "url": "https://wallstreetcn.com/livenews/3002253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         }
       ]
     },
@@ -1060,68 +1168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
-          "url": "https://flash.jin10.com/detail/20251111144640620800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
-          "url": "https://wallstreetcn.com/livenews/3002355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时32分]"
-        },
-        {
-          "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
-          "url": "https://flash.jin10.com/detail/20251111004153687800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
-          "url": "https://www.cls.cn/detail/2196380",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
-          "url": "https://wallstreetcn.com/livenews/3002253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
         }
       ]
     },

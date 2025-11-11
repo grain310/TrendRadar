@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:46:03.767850+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2025-11-11T13:41:28.429956+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             18,
             21,
             19,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 13时41分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时41分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -92,6 +93,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时41分]"
         },
         {
           "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
@@ -190,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时40分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时46分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -570,8 +571,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 12时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 13时41分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -597,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时41分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -609,8 +610,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时41分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -680,8 +681,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 13时41分]"
         },
         {
           "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
@@ -904,7 +905,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -915,7 +916,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },

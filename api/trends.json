@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:52:41.342158+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-11-11T17:40:41.688535+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -37,6 +37,19 @@
           "time_info": "[00时53分 ~ 13时41分]"
         },
         {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 17时40分]"
+        },
+        {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
           "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
           "source": "澎湃新闻",
@@ -47,19 +60,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时32分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 16时52分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -92,9 +92,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "叙利亚总统：与基地组织的关联是过去的事情，且未曾与特朗普讨论过此事。",
@@ -349,6 +360,28 @@
           "time_info": "[05时32分 ~ 06时40分]"
         },
         {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美国交通部长达菲：“我同意”特朗普的说法，空中交通管制员必须到岗上班。",
           "url": "https://flash.jin10.com/detail/20251111012146992800",
           "source": "金十数据",
@@ -391,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "特朗普拟推50年房贷！业内“差评如潮”：房贷终身制、到死还不完？",
+          "url": "https://www.cls.cn/detail/2196763",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
@@ -920,6 +964,18 @@
           "time_info": "15时34分"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时40分]"
+        },
+        {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
           "url": "https://wallstreetcn.com/livenews/3002303",
           "source": "华尔街见闻-快讯",
@@ -954,24 +1010,13 @@
           "time_info": "00时53分"
         },
         {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
           "title": "最长政府停摆即将结束 金价创下近三周新高",
           "url": "https://flash.jin10.com/detail/20251111163501589800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -1010,7 +1055,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -1105,7 +1150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -1250,7 +1295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }

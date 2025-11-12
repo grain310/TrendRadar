@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:32:05.081306+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-11-12T11:35:37.530348+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -63,6 +63,20 @@
           "time_info": "[00时52分 ~ 07时32分]"
         },
         {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 11时35分]"
+        },
+        {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D11%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D11%26c_type%3D31%26q%3D%2523%25E7%25BE%258E%25E4%25B8%25BB%25E6%2592%25AD%25E9%2598%25B4%25E9%2598%25B3%25E6%2580%25AA%25E6%25B0%2594%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E9%2581%25AD%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%258D%25E9%25A9%25B3%2523%26dgr%3D0%26pos%3D12%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
           "source": "微博",
@@ -72,19 +86,6 @@
             13,
             14,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时32分]"
-        },
-        {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -276,6 +277,17 @@
           "time_info": "[01时39分 ~ 07时31分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "特朗普：参议院通过拨款法案是“重大胜利”",
           "url": "https://flash.jin10.com/detail/20251112012116484800",
           "source": "金十数据",
@@ -293,7 +305,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -318,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26pos%3D13%26realpos%3D13%26cate%3D5001%26c_type%3D31%26band_rank%3D13%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -359,7 +382,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -370,7 +393,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -384,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3003110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "“美元微笑论”创立者：特朗普任期余下时间美元将再跌近14%",
@@ -414,6 +448,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 11时35分]"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251112013235058800",
           "source": "金十数据",
@@ -434,19 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 07时32分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -523,7 +558,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -531,11 +566,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 11时35分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -587,6 +623,17 @@
           "time_info": "[02时52分 ~ 03时28分]"
         },
         {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
           "url": "https://wallstreetcn.com/livenews/3002981",
           "source": "华尔街见闻-快讯",
@@ -596,6 +643,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3002992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时32分]"
+        },
+        {
+          "title": "金价跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/3002885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时39分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
+          "url": "https://flash.jin10.com/detail/20251112110231179800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26flag%3D2%26filter_type%3Drealtimehot%26pos%3D21%26realpos%3D21%26cate%3D5001%26c_type%3D31%26band_rank%3D21%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762918445%26pre_seqid%3D176291844556303472184&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         }
       ]
     },
@@ -696,36 +795,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3002992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时32分]"
-        },
-        {
-          "title": "金价跌穿4100美元",
-          "url": "https://wallstreetcn.com/livenews/3002885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -734,11 +803,12 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时35分]"
         }
       ]
     },

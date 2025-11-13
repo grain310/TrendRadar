@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:20:40.291563+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-11-13T19:17:10.969286+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时17分 ~ 18时20分]"
+          "appearance_count": 24,
+          "time_info": "[01时17分 ~ 19时17分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -49,6 +49,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时18分 ~ 18时20分]"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 19时17分]"
         },
         {
           "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
@@ -106,22 +120,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 18时20分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 19时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -173,6 +185,17 @@
           "time_info": "[13时19分 ~ 14时28分]"
         },
         {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
           "url": "https://news.ifeng.com/c/8oFEfoIotGG",
           "source": "凤凰网",
@@ -182,17 +205,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时18分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
@@ -312,17 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
@@ -589,6 +590,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113180638887800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "特朗普：真正计算出损失的总体影响需要数周甚至数月的时间。",
           "url": "https://flash.jin10.com/detail/20251113111820386800",
           "source": "金十数据",
@@ -691,7 +703,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.1",
@@ -717,6 +729,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时24分 ~ 18时20分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -783,9 +806,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -816,7 +839,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -846,7 +869,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -924,7 +947,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -935,7 +958,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -968,9 +991,92 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
+          "url": "https://flash.jin10.com/detail/20251113184640966800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
+          "url": "https://flash.jin10.com/detail/20251113184617045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "欧盟准备就新闻出版商排名问题对谷歌展开新一轮调查。",
+          "url": "https://flash.jin10.com/detail/20251113005418271800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -985,7 +1091,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1030,7 +1136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -1087,45 +1193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "欧盟准备就新闻出版商排名问题对谷歌展开新一轮调查。",
-          "url": "https://flash.jin10.com/detail/20251113005418271800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
         }
       ]
     },

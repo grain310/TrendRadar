@@ -1,7 +1,12 @@
 {
-  "generated_at": "2025-11-18T19:17:26.540865+08:00",
-  "total_titles_processed": 1692,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:39:18.948727+08:00",
+  "total_titles_processed": 1759,
+  "failed_sources": [
+    "thepaper",
+    "wallstreetcn-quick",
+    "weibo",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -354,7 +359,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -607,8 +612,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时19分 ~ 20时39分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -759,7 +764,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -977,8 +982,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时19分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时19分 ~ 20时39分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1003,6 +1008,19 @@
           "time_info": "[04时21分 ~ 06时17分]"
         },
         {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时39分]"
+        },
+        {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -1023,19 +1041,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
-        },
-        {
-          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时17分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -1105,6 +1110,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "网络安全公司Cloudflare发生故障 ChatGPT、X等网站访问受阻",
+          "url": "https://flash.jin10.com/detail/20251118203407775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 15时17分]"
+        },
+        {
+          "title": "OpenAI状态页面：部分用户无法访问ChatGPT和平台官网。",
+          "url": "https://flash.jin10.com/detail/20251118202012120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1131,25 +1177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时17分]"
         }
       ]
     },

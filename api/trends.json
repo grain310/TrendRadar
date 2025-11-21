@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T22:18:31.242978+08:00",
-  "total_titles_processed": 2104,
+  "generated_at": "2025-11-21T23:17:11.233518+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             22,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时27分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[14时27分 ~ 23时17分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -508,7 +509,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -527,7 +528,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -583,8 +584,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时09分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[11时09分 ~ 23时17分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -596,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时09分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[11时09分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -646,8 +647,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时27分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[14时27分 ~ 23时17分]"
         },
         {
           "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
@@ -661,6 +662,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时18分 ~ 21时27分]"
+        },
+        {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时26分 ~ 23时17分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -709,18 +722,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 22时18分]"
-        },
-        {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
           "url": "https://flash.jin10.com/detail/20251121121525026800",
           "source": "金十数据",
@@ -730,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时17分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -754,6 +766,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时15分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
         },
         {
           "title": "美股",
@@ -839,6 +863,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
+          "url": "https://www.cls.cn/detail/2207612",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "半导体ETF收跌超4.2%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3008193",
           "source": "华尔街见闻-快讯",
@@ -849,17 +884,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3008752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -884,15 +908,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2207754",
-          "source": "财联社热门",
+          "title": "行业ETF美股盘初普遍走高，全球航空业ETF涨0.8%，区域银行ETF、银行业ETF、可选消费ETF涨超0.7%，网络股指数ETF涨0.45%，科技行业ETF涨0.34%，能源业ETF微跌，全球科技股指数ETF跌0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3008769",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "23时17分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -972,6 +996,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美股三大股指高开",
+          "url": "https://flash.jin10.com/detail/20251121223029894800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美股跳水暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -981,6 +1016,157 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时09分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "Gemini3",
+          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 05时17分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 09时18分]"
+        },
+        {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 14时28分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3008167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
+          "url": "https://flash.jin10.com/detail/20251121150810136800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
+          "url": "https://wallstreetcn.com/livenews/3008098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
+          "url": "https://flash.jin10.com/detail/20251121034642254800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时17分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块美股盘初涨1.63%，成分股谷歌A涨3.6%；金融、原材料、可选消费板块至少涨0.58%，科技板块则跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3008770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3008055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
@@ -1126,146 +1312,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 11时09分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 05时17分]"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 09时18分]"
-        },
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时28分]"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3008167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
-          "url": "https://flash.jin10.com/detail/20251121150810136800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
-          "url": "https://flash.jin10.com/detail/20251121034642254800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时17分]"
-        },
-        {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3008055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
@@ -1381,8 +1427,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时18分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[09时18分 ~ 23时17分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",

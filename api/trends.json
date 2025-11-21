@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:27:14.431861+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2025-11-21T22:18:31.242978+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时27分 ~ 21时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时27分 ~ 22时18分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -375,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -501,6 +502,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "白宫回应特朗普称女记者为“小猪”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "乌克兰总统办公室：预计泽连斯基将在未来几天与特朗普对话。",
           "url": "https://flash.jin10.com/detail/20251121001848368800",
           "source": "金十数据",
@@ -515,7 +527,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -530,19 +542,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时09分 ~ 17时19分]"
-        },
-        {
-          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
-          "url": "https://wallstreetcn.com/articles/3759840",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时09分 ~ 21时27分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -574,6 +573,20 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
+          "url": "https://wallstreetcn.com/articles/3759840",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时09分 ~ 22时18分]"
+        },
+        {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
           "url": "https://wallstreetcn.com/articles/3759847",
           "source": "华尔街见闻",
@@ -583,8 +596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时09分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时09分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -633,8 +646,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时27分 ~ 21时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时27分 ~ 22时18分]"
         },
         {
           "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
@@ -696,6 +709,18 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时18分]"
+        },
+        {
           "title": "美股科技股跳水引发连锁反应 亚洲芯片股承压",
           "url": "https://flash.jin10.com/detail/20251121121525026800",
           "source": "金十数据",
@@ -717,17 +742,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "美联储高官安抚市场，美股期货盘前反弹，比特币短线反弹3000美元，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3759842",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
@@ -763,6 +777,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3008724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -825,6 +851,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美股大跌 英伟达跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -847,15 +884,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美股股指期货持续拉升，纳指期货涨近0.5%，至日内高点；比特币短线回升近3000美元至83300美元。美联储“三把手”威廉姆斯此前表示对近期降息持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3008724",
-          "source": "华尔街见闻-快讯",
+          "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2207754",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时27分"
+          "time_info": "22时18分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -1313,7 +1350,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1344,8 +1381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时18分 ~ 21时27分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 22时18分]"
         },
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -1388,11 +1425,12 @@
           "url": "https://wallstreetcn.com/livenews/3008725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "美联储“三把手”威廉姆斯表示对近期降息持开放态度后，美股三大股指期货短线拉升，纳指期货跌幅收窄至0.2%，标普500指数期货涨0.16%；美债上涨；现货黄金短线上扬近10美元。",
@@ -1401,7 +1439,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },

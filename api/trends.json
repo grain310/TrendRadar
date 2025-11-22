@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T14:24:42.065650+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-11-22T15:16:49.997938+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -42,6 +42,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 09时16分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 15时16分]"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://wallstreetcn.com/livenews/3008950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            9,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
+          "url": "https://www.cls.cn/detail/2207928",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：与Mamdani（马姆达尼，纽约市长当选人）的会谈非常有成效。 我们谈到了（纽约市/全美的）住房问题和住房建设。 纽约市有望迎来一位非常棒的市长。",
@@ -64,32 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32019589",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 14时24分]"
-        },
-        {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://wallstreetcn.com/livenews/3008950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 14时24分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -127,18 +140,6 @@
             10,
             19,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 14时24分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
-          "url": "https://www.cls.cn/detail/2207928",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -238,6 +239,19 @@
           "time_info": "[09时16分 ~ 12时20分]"
         },
         {
+          "title": "公开决裂后 特朗普铁杆盟友辞职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
+        },
+        {
           "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
           "url": "https://wallstreetcn.com/livenews/3008908",
           "source": "华尔街见闻-快讯",
@@ -251,6 +265,18 @@
           "time_info": "[06时18分 ~ 09时16分]"
         },
         {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
+        },
+        {
           "title": "特朗普昔日亲密盟友将辞去众议员职务",
           "url": "https://news.ifeng.com/c/8oU6VqnGTn7",
           "source": "凤凰网",
@@ -260,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
+          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -274,16 +311,15 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
-          "title": "公开决裂后 特朗普铁杆盟友辞职",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
+          "title": "昔日盟友格林辞职，特朗普：好啊",
+          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -298,6 +334,17 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
+        },
+        {
           "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
           "url": "https://wallstreetcn.com/livenews/3008792",
           "source": "华尔街见闻-快讯",
@@ -310,38 +357,15 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
-          "title": "特朗普警告泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
-        },
-        {
-          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
-          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "昔日盟友格林辞职，特朗普：好啊",
-          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
-          "source": "凤凰网",
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "15时16分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -386,17 +410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -558,8 +571,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时16分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -588,6 +601,22 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3008935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            19,
+            21,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 15时16分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
           "url": "https://wallstreetcn.com/livenews/3008920",
           "source": "华尔街见闻-快讯",
@@ -600,21 +629,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 11时03分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3008935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 14时24分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
@@ -641,6 +655,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时16分 ~ 13时16分]"
+        },
+        {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -701,17 +727,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "美股延续涨势，道指涨1%。",
           "url": "https://flash.jin10.com/detail/20251122004255320800",
           "source": "金十数据",
@@ -770,8 +785,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 15时16分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -782,8 +797,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 15时16分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -791,11 +806,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 15时16分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -810,6 +826,18 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
+        },
+        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -820,18 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
         },
         {
           "title": "谷歌推出BigQuery AI",

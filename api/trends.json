@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T13:18:55.477670+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-11-25T14:28:42.073538+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时28分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -38,11 +38,12 @@
             5,
             4,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时28分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -98,8 +99,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时28分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 14时28分]"
         },
         {
           "title": "曝特朗普最后一刻才知28点计划内容",
@@ -112,23 +125,12 @@
             6,
             15,
             14,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时18分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时28分]"
         },
         {
           "title": "特朗普要求与高市早苗通话",
@@ -140,8 +142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时28分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -149,11 +151,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时28分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -194,6 +197,20 @@
           "time_info": "[12时24分 ~ 13时18分]"
         },
         {
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 14时28分]"
+        },
+        {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
           "url": "https://flash.jin10.com/detail/20251125024713901800",
           "source": "金十数据",
@@ -227,25 +244,24 @@
           "time_info": "11时13分"
         },
         {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普要求跟高市早苗通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6,
             7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时18分]"
-        },
-        {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
             4
           ],
           "is_new": false,
@@ -263,18 +279,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[09时19分 ~ 13时18分]"
         },
         {
@@ -326,6 +330,30 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
+          "url": "https://news.ifeng.com/c/8oZ8o93y559",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
+        },
+        {
+          "title": "与特朗普通话谈及涉台言论？高市回应",
+          "url": "https://www.toutiao.com/trending/7576495986903089178/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
+        },
+        {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
           "url": "https://wallstreetcn.com/livenews/3009712",
           "source": "华尔街见闻-快讯",
@@ -339,15 +367,27 @@
           "time_info": "[02时27分 ~ 04时21分]"
         },
         {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
-          "url": "https://news.ifeng.com/c/8oZ8o93y559",
-          "source": "凤凰网",
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976581502214107178",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
@@ -372,18 +412,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "与特朗普通话谈及涉台言论？高市回应",
-          "url": "https://www.toutiao.com/trending/7576495986903089178/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
         },
         {
           "title": "高市早苗回应与特朗普通话",
@@ -458,17 +486,6 @@
           "time_info": "[09时19分 ~ 11时13分]"
         },
         {
-          "title": "特朗普与高市早苗通话",
-          "url": "https://www.douyin.com/hot/2317172",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
-        },
-        {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：细节不便透露",
           "url": "https://wallstreetcn.com/livenews/3009949",
           "source": "华尔街见闻-快讯",
@@ -503,17 +520,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普 25 日要求与高市早苗通话，高市早苗通话后回应「细节不便透露」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976581502214107178",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
           "url": "https://flash.jin10.com/detail/20251125061314901800",
           "source": "金十数据",
@@ -523,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "高市早苗回应与特朗普通话",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
@@ -613,6 +630,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普称明年四月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "泽连斯基：结束俄乌冲突步骤清单趋近可行 将与特朗普商讨敏感议题",
           "url": "https://flash.jin10.com/detail/20251125041922730800",
           "source": "金十数据",
@@ -633,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "邵永灵：特朗普成了“第二个拜登”",
+          "url": "https://www.toutiao.com/trending/7576447344028159524/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国总统特朗普告诉他的顾问们，他打算与委内瑞拉总统马杜罗通电话。 相关计划仍然处于“筹备阶段”。（Axios）",
@@ -715,8 +754,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -764,6 +803,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -796,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -934,11 +974,12 @@
             13,
             11,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时28分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -1207,7 +1248,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗：强烈谴责以色列空袭致黎真主党指挥官死亡",
@@ -1246,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时13分]"
+        },
+        {
+          "title": "英媒：英国敏感技术被发现用于伊朗核相关产品",
+          "url": "https://flash.jin10.com/detail/20251125133145292800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -1317,11 +1369,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
         }
       ]
     },

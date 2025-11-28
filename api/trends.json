@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T16:25:48.119755+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-11-28T17:19:56.192460+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -47,6 +47,19 @@
           "time_info": "[00时21分 ~ 11时10分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 17时19分]"
+        },
+        {
           "title": "特朗普：将对委内瑞拉展开地面行动",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E5%9C%B0%E9%9D%A2%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -59,19 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时09分 ~ 15时18分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 16时25分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -108,8 +108,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 17时19分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -148,18 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 06时17分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
         },
         {
           "title": "特朗普称美国已订购更多B-2隐形轰炸机",
@@ -243,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 12时22分]"
+        },
+        {
+          "title": "特朗普封杀移民？这次的风暴，会撕裂美国就业市场丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251128164740683800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "特朗普称将开始在陆地拦截委内瑞拉“毒贩”",
@@ -445,8 +457,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -458,8 +470,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -487,8 +499,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时19分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -500,24 +525,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时09分 ~ 11时10分]"
-        },
-        {
-          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
-          "url": "https://wallstreetcn.com/articles/3760294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时25分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -549,11 +562,23 @@
           "url": "https://flash.jin10.com/detail/20251128161818417800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时19分]"
+        },
+        {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "17时19分"
         },
         {
           "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
@@ -565,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
+          "url": "https://www.cls.cn/detail/2213392",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -713,8 +749,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 17时19分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",

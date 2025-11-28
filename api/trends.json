@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T19:16:27.139536+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-11-28T20:36:46.048779+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 20时36分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -71,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时36分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -344,7 +344,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -355,7 +355,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -396,7 +396,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -491,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -503,11 +514,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时17分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时17分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -516,11 +528,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -562,8 +575,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -583,7 +596,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -691,8 +704,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时17分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时17分 ~ 20时36分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:36:46.048779+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2025-11-28T21:29:49.027072+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 21时29分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -499,7 +499,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
@@ -532,8 +532,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 20时36分]"
+          "appearance_count": 16,
+          "time_info": "[07时16分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -575,8 +575,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -704,8 +704,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[09时17分 ~ 21时29分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",

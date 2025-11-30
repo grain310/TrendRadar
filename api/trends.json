@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:22:11.954579+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-11-30T17:17:19.274579+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -118,6 +118,18 @@
           "time_info": "[00时21分 ~ 09时28分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时17分]"
+        },
+        {
           "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
           "url": "https://flash.jin10.com/detail/20251129202718380800",
           "source": "金十数据",
@@ -160,18 +172,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -252,8 +252,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -296,8 +296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时17分]"
         }
       ]
     },
@@ -310,11 +310,12 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时17分]"
         }
       ]
     },

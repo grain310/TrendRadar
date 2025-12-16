@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:24:58.143036+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-12-16T18:22:32.825489+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 18时22分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 18时22分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -131,6 +131,17 @@
           "time_info": "[00时27分 ~ 05时29分]"
         },
         {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
+        },
+        {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
           "url": "https://flash.jin10.com/detail/20251216000109802800",
           "source": "金十数据",
@@ -140,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -351,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216180101240800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
@@ -942,9 +953,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
@@ -1073,7 +1084,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }

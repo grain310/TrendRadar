@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:21:14.957155+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-12-18T19:17:41.210338+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -69,11 +69,12 @@
             8,
             2,
             4,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时17分]"
         },
         {
           "title": "预告：特朗普今日上午10点将向全美发表讲话",
@@ -113,6 +114,18 @@
           "time_info": "07时18分"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
           "url": "https://flash.jin10.com/detail/20251218121134659800",
           "source": "金十数据",
@@ -123,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时20分]"
-        },
-        {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
@@ -177,11 +179,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "特朗普将发表全国讲话强调政绩",
@@ -490,7 +493,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -515,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
@@ -708,8 +722,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时18分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[06时18分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -968,6 +982,17 @@
           "time_info": "[11时19分 ~ 12时33分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时17分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -989,17 +1014,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时21分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -1035,11 +1049,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -1196,7 +1211,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
@@ -1209,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时18分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },

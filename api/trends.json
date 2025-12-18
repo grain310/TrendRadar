@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T11:19:44.947680+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2025-12-18T12:33:09.008200+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 12时33分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -47,6 +47,19 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 12时33分]"
+        },
+        {
           "title": "预告：特朗普今日上午10点将向全美发表讲话",
           "url": "https://flash.jin10.com/detail/20251218064618327800",
           "source": "金十数据",
@@ -56,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
@@ -105,16 +129,16 @@
           "time_info": "[04时21分 ~ 05时19分]"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            6
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时33分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -237,6 +261,28 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
+          "title": "特朗普将发表全国讲话强调政绩",
+          "url": "https://www.douyin.com/hot/2339868",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
           "url": "https://flash.jin10.com/detail/20251218010257604800",
           "source": "金十数据",
@@ -303,13 +349,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
           "url": "https://flash.jin10.com/detail/20251218104718187800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -323,17 +380,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "特朗普经济施压下，委内瑞拉通胀飙升至500%以上",
@@ -364,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -430,7 +476,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -452,7 +498,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -463,7 +509,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -496,7 +542,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -518,7 +564,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -540,6 +586,19 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
+          "url": "https://wallstreetcn.com/articles/3761550",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时18分 ~ 12时33分]"
+        },
+        {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
@@ -552,19 +611,6 @@
           "time_info": "[01时21分 ~ 05时19分]"
         },
         {
-          "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
-          "url": "https://wallstreetcn.com/articles/3761550",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时18分 ~ 11时19分]"
-        },
-        {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
           "url": "https://www.cls.cn/detail/2232828",
           "source": "财联社热门",
@@ -573,8 +619,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 12时33分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -759,6 +805,19 @@
           "time_info": "[00时25分 ~ 02时29分]"
         },
         {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 12时33分]"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -771,16 +830,15 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -795,24 +853,13 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
-          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
-          "url": "https://www.cls.cn/detail/2232789",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -957,7 +1004,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }

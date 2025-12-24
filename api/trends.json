@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T20:38:25.923800+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-12-24T21:31:25.454476+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 20时38分]"
+          "appearance_count": 11,
+          "time_info": "[11时22分 ~ 21时31分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -97,8 +97,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 20时38分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 21时31分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -111,6 +111,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时31分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -128,18 +140,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时18分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时38分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -282,6 +282,17 @@
           "time_info": "[09时22分 ~ 12时34分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.toutiao.com/trending/7586746209667239443/",
           "source": "今日头条",
@@ -317,17 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 06时18分]"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时38分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -424,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普通话的计划。",
+          "url": "https://flash.jin10.com/detail/20251224204509848800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -525,6 +536,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "以色列总理办公室：哈马斯继续违反停火协议和特朗普总统的20点计划。今天，他们引爆简易爆炸装置，导致一名以色列国防军军官受伤，再次证实了他们的暴力意图和违法行为。以色列将作出相应回应。",
+          "url": "https://flash.jin10.com/detail/20251224203421132800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-24）",
           "url": "https://flash.jin10.com/detail/20251224182355031800",
           "source": "金十数据",
@@ -600,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         }
       ]
     },
@@ -670,6 +703,18 @@
           "time_info": "[04时20分 ~ 11时22分]"
         },
         {
+          "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时31分]"
+        },
+        {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3025776",
           "source": "华尔街见闻-快讯",
@@ -680,6 +725,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时31分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -706,17 +763,6 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
-          "url": "https://wallstreetcn.com/livenews/3026207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
@@ -726,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
-          "url": "https://wallstreetcn.com/livenews/3026192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -1018,8 +1053,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时22分 ~ 20时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时22分 ~ 21时31分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",

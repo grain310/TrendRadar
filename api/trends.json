@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:36:53.452693+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-25T13:22:36.632100+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 13时22分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -54,17 +54,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
-          "url": "https://flash.jin10.com/detail/20251225121328471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -117,6 +106,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时17分]"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -192,8 +193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时22分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -421,22 +422,24 @@
           "ranks": [
             30,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时22分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时22分]"
         },
         {
           "title": "金价又创历史新高",

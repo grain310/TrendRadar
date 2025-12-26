@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:20:39.008531+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-26T19:17:31.176863+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时23分 ~ 19时17分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -141,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -173,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时23分 ~ 19时17分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -493,7 +493,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }

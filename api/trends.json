@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T14:29:57.313643+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-31T15:22:27.758029+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -73,22 +73,12 @@
           "ranks": [
             13,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 14时29分]"
-        },
-        {
-          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
-          "url": "https://wallstreetcn.com/livenews/3029129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 15时22分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -114,6 +104,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时22分]"
         },
         {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
@@ -164,6 +166,18 @@
           "time_info": "[00时24分 ~ 01时19分]"
         },
         {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时22分]"
+        },
+        {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
           "url": "https://wallstreetcn.com/livenews/3028928",
           "source": "华尔街见闻-快讯",
@@ -197,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "美媒：特朗普正试图让世界MAGA化",
@@ -260,7 +263,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -303,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -742,11 +745,12 @@
           "ranks": [
             18,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时22分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:28:01.107535+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-01-14T18:23:01.406242+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时45分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时45分 ~ 18时23分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -93,6 +93,17 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时23分]"
+        },
+        {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
           "url": "https://wallstreetcn.com/articles/3763119",
           "source": "华尔街见闻",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -152,13 +152,26 @@
           "time_info": "[11时45分 ~ 15时24分]"
         },
         {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 18时23分]"
+        },
+        {
           "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
           "url": "https://flash.jin10.com/detail/20260114171639019800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -319,16 +332,16 @@
           "time_info": "[02时29分 ~ 03时19分]"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            26
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时28分]"
+          "time_info": "[17时27分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -532,17 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
@@ -926,7 +928,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1242,7 +1244,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -1311,6 +1313,18 @@
           "time_info": "[00时29分 ~ 07时18分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 18时23分]"
+        },
+        {
           "title": "美国会对伊朗动武吗",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
           "source": "百度热搜",
@@ -1323,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时28分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗官员：伊美“直接沟通”已停止",
+          "url": "https://news.ifeng.com/c/8puVxXLmGag",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
@@ -1348,17 +1373,6 @@
           "time_info": "[11时45分 ~ 15时24分]"
         },
         {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
-        },
-        {
           "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
           "url": "https://flash.jin10.com/detail/20260114130612270800",
           "source": "金十数据",
@@ -1379,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
-          "url": "https://wallstreetcn.com/livenews/3036868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1435,6 +1438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗官员：若美对伊发动袭击，将打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3036868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1526,7 +1541,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1592,7 +1607,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1625,7 +1640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1753,8 +1768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 18时23分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1853,24 +1868,25 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时23分]"
+        },
+        {
           "title": "携程(TCOM.O)美股盘前下跌7.3%。",
           "url": "https://flash.jin10.com/detail/20260114170230347800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "携程美股盘前下跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3036845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1969,11 +1985,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 18时23分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",

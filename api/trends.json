@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T18:24:10.430975+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-02-08T19:21:35.437552+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -196,17 +196,6 @@
           "time_info": "[00时27分 ~ 05时23分]"
         },
         {
-          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
-          "url": "https://flash.jin10.com/detail/20260208174127645800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
@@ -233,6 +222,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时15分 ~ 16时31分]"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
@@ -287,6 +288,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时15分 ~ 14时45分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美民主党高层对特朗普爆粗",
@@ -429,22 +441,12 @@
           "ranks": [
             1,
             4,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
@@ -467,11 +469,24 @@
           "ranks": [
             5,
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -500,6 +515,19 @@
           "time_info": "[10时15分 ~ 14时45分]"
         },
         {
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
           "url": "https://news.ifeng.com/c/8qZP3seoZvF",
           "source": "凤凰网",
@@ -512,16 +540,16 @@
           "time_info": "[10时15分 ~ 13时01分]"
         },
         {
-          "title": "伊朗外长：美国军事施压吓不倒伊朗",
-          "url": "https://wallstreetcn.com/livenews/3051796",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
+          "source": "金十数据",
           "ranks": [
             10,
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时21分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -534,17 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://flash.jin10.com/detail/20260208171910596800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         }
       ]
     },
@@ -569,11 +586,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 18时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 19时21分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -586,8 +604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[15时37分 ~ 19时21分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -614,11 +632,12 @@
             11,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 19时21分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -675,11 +694,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时21分]"
         }
       ]
     },
@@ -696,8 +716,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时21分]"
         }
       ]
     },
@@ -710,11 +730,12 @@
           "url": "https://wallstreetcn.com/livenews/3051817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时21分]"
         }
       ]
     }

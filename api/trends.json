@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-29T10:54:39.928253+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-05-29T14:54:08.195506+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 14时54分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时54分]"
+        },
         {
           "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产均完好。",
           "url": "https://flash.jin10.com/detail/20260529065130382800",
@@ -30,19 +55,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 10时54分]"
-        },
-        {
           "title": "伊朗最高领袖强调维护民族团结",
           "url": "https://flash.jin10.com/detail/20260529003004377800",
           "source": "金十数据",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "【伊朗最高领袖强调维护民族团结】伊朗最高领袖穆杰塔巴28日发表书面讲话，强调维护民族团结与社会凝聚力，并呼吁伊朗各界共同维护国家统一。 穆杰塔巴在伊朗伊斯兰议会成立纪念日之际发表书面讲话说，伊朗议会是“民族意志的体现”和国家立法的重要支柱。他感谢议员们，特别是议长卡利巴夫为国家发展所作努力。 穆杰塔巴说，伊朗人民在近期冲突中展现出团结、信仰和韧性，当前最重要任务之一是维护民族团结与社会凝聚力，避免政治和社会分裂。 他还说，敌对势力在军事、经济以及宣传领域持续向伊朗施压，其目的在于制造社会分裂并削弱伊朗。他呼吁各界特别是政治精英和议员，共同维护国家统一。（新华社）",
@@ -104,7 +105,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -292,6 +293,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美国明尼阿波利斯联储主席卡什卡利：伊朗冲突令通胀前景变得不明朗。 由于伊朗冲突，现在不清楚货币政策的未来路径会如何。 在4月PCE通胀数据公布后，就断定我们需要立即加息还为时过早。 （PCE）数据让我进一步关注通胀风险。 无论在最好或最坏的情况下，都存在通货膨胀延长的风险。 通胀预期面临失控的风险。",
+          "url": "https://wallstreetcn.com/livenews/3111185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
           "url": "https://wallstreetcn.com/livenews/3110940",
           "source": "华尔街见闻-快讯",
@@ -447,9 +459,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时54分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -458,9 +470,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时54分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 14时54分]"
         },
         {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
@@ -487,16 +512,15 @@
           "time_info": "[00时53分 ~ 10时54分]"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
           "source": "财联社热门",
           "ranks": [
-            8,
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 14时54分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
@@ -531,17 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "惠与（HPE）美股盘后涨9%。",
@@ -613,19 +626,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时13分]"
-        },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
@@ -636,8 +638,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 10时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 07时13分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -660,6 +673,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 07时13分]"
+        },
+        {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -873,7 +897,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -890,7 +914,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },

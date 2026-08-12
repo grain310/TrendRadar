@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T17:59:57.435533+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-08-12T19:04:55.850223+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 17时59分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 19时04分]"
         },
         {
           "title": "伊朗，密集“换帅”",
@@ -71,7 +71,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -287,7 +287,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -331,7 +331,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -364,7 +364,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -427,8 +427,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 19时04分]"
+        },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
@@ -440,18 +453,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 09时40分]"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 17时59分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -477,6 +478,19 @@
           "time_info": "[05时44分 ~ 07时36分]"
         },
         {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时04分]"
+        },
+        {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
           "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
           "source": "凤凰网",
@@ -488,16 +502,16 @@
           "time_info": "[09时40分 ~ 14时11分]"
         },
         {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            10
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 17时59分]"
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时04分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -577,6 +591,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
           "url": "https://flash.jin10.com/detail/20260812111839439800",
           "source": "金十数据",
@@ -597,17 +622,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -685,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
+          "url": "https://flash.jin10.com/detail/20260812180539210800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -751,17 +776,6 @@
           "time_info": "04时40分"
         },
         {
-          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
-          "url": "https://wallstreetcn.com/livenews/3148557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
           "url": "https://wallstreetcn.com/livenews/3148240",
           "source": "华尔街见闻-快讯",
@@ -772,6 +786,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时44分]"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 19时04分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -889,6 +915,78 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3148231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -986,11 +1084,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 19时04分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1030,67 +1129,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3148231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
-          "url": "https://flash.jin10.com/detail/20260812014236644800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
-          "url": "https://flash.jin10.com/detail/20260812012754420800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1124,7 +1162,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -1134,6 +1172,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1155,23 +1221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
-          "url": "https://wallstreetcn.com/livenews/3148186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         }
       ]
     }
